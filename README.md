@@ -1,2 +1,15 @@
 # hello-world
-print("Hello world") 
+
+## A conversation between C++  and Python
+
+C++ : Hello Pyton my name is C++   
+Python: 
+
+C++ : Pointers and references are so fun
+Python: 
+
+C++: Okay it was nice meeting you Python, gotta go
+Python:
+
+C++: *leaves* 
+Python: Hello C++ 
