@@ -3,13 +3,13 @@
 ## A conversation between C++  and Python
 
 C++ : Hello Pyton my name is C++   
-Python: 
+Python: ... 
 
 C++ : Pointers and references are so fun
-Python: 
+Python: ...
 
 C++: Okay it was nice meeting you Python, gotta go
-Python:
+Python: ...
 
 C++: *leaves* 
 Python: Hello C++ 
